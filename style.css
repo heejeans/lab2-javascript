@@ -32,7 +32,7 @@ h2 {
   display: inline-block;
   background: transparent;
   max-width: 200px;
-  border: 1px solid #75D4CA;
+  border: 1px solid #ef98aa;
   outline: none;
 }
 
@@ -47,11 +47,11 @@ h2 {
 /****************/
 
 .bar {
-  fill: #3C948B;
+  fill: #f6adc6;
 }
 
 .bar:hover {
-  fill: #327972;
+  fill: #e68fac;
 }
 
 .axis {
